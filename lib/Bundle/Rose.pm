@@ -2,7 +2,7 @@ package Bundle::Rose;
 
 use strict;
 
-our $VERSION = '0.01';
+our $VERSION = '0.011';
 
 1;
 
@@ -10,23 +10,19 @@ __END__
 
 =head1 NAME
 
-Bundle::Rose - Bundle all modules in thee Rose web application construction suite.
+Bundle::Rose - Bundle all modules in the Rose web application construction suite.
 
 =head1 SYNOPSIS
 
 C<perl -MCPAN -e 'install Bundle::Rose'>
 
-=CONTENTS
-
-Rose
-
-Rose::DateTime
-
-Rose::HTML::Objects
+=head1 CONTENTS
 
 Rose::Object
-
+Rose::DateTime
 Rose::URI
+Rose::HTML::Objects
+Rose
 
 =head1 AUTHOR
 
