@@ -2,7 +2,7 @@ package Bundle::Rose;
 
 use strict;
 
-our $VERSION = '0.012';
+our $VERSION = '0.02';
 
 1;
 
@@ -23,6 +23,8 @@ Rose::DateTime
 Rose::URI
 Rose::HTML::Objects
 Rose::Conf
+Rose::DB
+Rose::DB::Object
 Rose
 
 =head1 AUTHOR

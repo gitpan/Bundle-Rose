@@ -10,3 +10,6 @@
 
     * Added Rose::Conf.
 
+0.02 (03.05.2005) - John Siracusa <siracusa@mindspring.com>
+
+    * Added Rose::DB and Rose::DB::Object.
